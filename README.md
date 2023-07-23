@@ -10,3 +10,5 @@ Sentiment Analysis using Python
 
 Conclusion
 Sentiment analysis, a vital application of text mining, enables product-based companies to extract valuable insights from customer feedback. By calculating sentiment polarity and subjectivity using Python, businesses can understand customer perceptions, identify areas for improvement, and ultimately enhance customer satisfaction, making data-driven decisions that align with market trends and demands.
+
+![sentiment Data ananlysis](https://github.com/Kunalkumar9354/sentiment-Data-Analysis/assets/136789814/dc18dda4-2ef8-4ca9-8538-75a592f09ed9)
